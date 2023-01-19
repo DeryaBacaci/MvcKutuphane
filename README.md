@@ -1,5 +1,5 @@
 # MvcKutuphane
-video izleme linki baylaşıyorum:    https://drive.google.com/file/d/1k85nsKYjDM4nrnr55LXc5odeY6qIeyNn/view?usp=share_link
+video izleme linki paylaşıyorum:    https://drive.google.com/file/d/1k85nsKYjDM4nrnr55LXc5odeY6qIeyNn/view?usp=share_link
 
 
 ******************* MVC PROJEMDE UYGULADIKLARIM ************************
