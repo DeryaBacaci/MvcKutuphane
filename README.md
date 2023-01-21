@@ -1,6 +1,7 @@
 # MvcKutuphane
 video izleme linki paylaşıyorum:    https://drive.google.com/file/d/1k85nsKYjDM4nrnr55LXc5odeY6qIeyNn/view?usp=share_link
 
+Bu proje bir kütüphanenin vitrin, admin ve kullanıcı olmak üzere 3 temel panelinden oluşuyor. Özellikle admin panelinin dashboard kısmı ile hem tasarımı güçlü bir arayüz hem de crud işlemlerinin ötesinde Entity Framework, Linq sorgular üzerinden Trigger, Procedure gibi SQL yapıları ile somut bir proje geliştirdim. 
 
 ******************* MVC PROJEMDE UYGULADIKLARIM ************************
 
